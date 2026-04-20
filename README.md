@@ -91,12 +91,14 @@ The following parts were written by me for this project:
 
 ## Adapted / external code
 
-I used library components only, no copied repository code.
-
 This project uses standard components from PyTorch / torchvision:
 - `torchvision.datasets.CIFAR10`
 - `torchvision.models.resnet18`
 - standard PyTorch training utilities
+
+I used library components only, no copied repository code.
+
+I did not edit any prior external codebase, so there are no external line numbers to report.
 
 ---
 
